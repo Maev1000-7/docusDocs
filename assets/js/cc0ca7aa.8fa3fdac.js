@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkincart_docs=self.webpackChunkincart_docs||[]).push([["8573"],{8291(e){e.exports=JSON.parse('{"metadata":{"permalink":"/docusDocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
